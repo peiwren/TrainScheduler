@@ -6,3 +6,4 @@ This is a React-based google book search app. The users can search, save the boo
 ### `The main technologies used`
 
 HTML, CSS, JS, Firebase Database
+
