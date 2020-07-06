@@ -5,7 +5,7 @@ This is a useful app. It will provide up-to-date information about various train
 
 ### `The main technologies used`
 
-HTML, CSS, JS, Firebase Database
+HTML, CSS, JS, Firebase Database, SVG
 
 
 
